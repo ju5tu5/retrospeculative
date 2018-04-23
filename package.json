@@ -1,19 +1,9 @@
 {
   "name": "retrospeculative",
   "version": "1.0.0",
-  "description": "It's a collection of retrospeculative science fiction gems become fact.",
-  "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ju5tu5/retrospeculative.git"
-  },
+  "description": "It's a repository of retrospects",
+  "main": "build.js",
+  "repository": "https://github.com/ju5tu5/retrospeculative.git",
   "author": "Justus Sturkenboom <justus@ju5tu5.nl>",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ju5tu5/retrospeculative/issues"
-  },
-  "homepage": "https://github.com/ju5tu5/retrospeculative#readme"
+  "license": "MIT"
 }

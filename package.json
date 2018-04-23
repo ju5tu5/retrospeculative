@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "It's a collection of retrospeculative science fiction gems become fact.",
   "main": "build.js",
+  "scripts":{
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
   "repository": "https://github.com/ju5tu5/retrospeculative.git",
   "author": "ju5tu5 <justus@ju5tu5.nl>",
   "license": "MIT",

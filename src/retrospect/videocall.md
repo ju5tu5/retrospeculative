@@ -1,3 +1,9 @@
+---
+category: communication
+tags: choose, as, much, tags, as, you, want
+author: Justus Sturkenboom <justus@ju5tu5.nl>
+---
+
 # Video Calling
 
 A device that carries both voice and image, letting two parties see and communicate with each other.

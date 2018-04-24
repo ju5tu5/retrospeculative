@@ -14,6 +14,6 @@ module.exports = {
     docsDir: 'src',
     docsBranch: 'master',
     editLinks: true,
-    editLinkText: 'Help me improve this page!'
+    editLinkText: 'Contribute!'
   }
 }

@@ -20,4 +20,4 @@ Although the idea of a large library of ultrafancy images or a collection of sci
 
 ## Care to join?
 
-Never enough artefacts! If you want to dedicate some time prospecting, why not join in on creating the [largest retrospeculative repository of artefacts](https://github.com/ju5tu5/retrospeculative) to date.
+Never enough artefacts! If you want to dedicate some time prospecting, why not join in on creating the [largest retrospeculative repository of artefacts](https://github.com/ju5tu5/retrospeculative) to date. We’re currently busy filling up the retrospect section. You can download and use [the template  for retrospects](http://retrospeculative.nl/template.md) and send in your attribution using a [pull request](https://github.com/ju5tu5/retrospeculative/pulls) or - if you like old school collaboration systems - [send me an email](mailto:justus@ju5tu5.nl)
